@@ -9,6 +9,14 @@
     font-family: 'Roboto', sans-serif;
     color: white;
 }
+.ft{
+transition: all 0.3s;
+}
+.ft:hover{
+    transform: translateX(-2px);
+    height: 55px;
+    width: 55px;
+}
 a{
     text-decoration: none;
 }

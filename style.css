@@ -85,14 +85,15 @@ p{
 #Nome{
     
     color: white;
-    font-size: 65px;
+    font-size: 6Opx;
     font-weight: 600;
 }
 #prof{
     font-family: 'Source Sans Pro', sans-serif;
+    font-size: 15px;
 }
 #redes{
-    font-size: 30px;
+    font-size: 25px;
 }
 
 

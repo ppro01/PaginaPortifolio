@@ -90,7 +90,9 @@ p{
 }
 #prof{
     font-family: 'Source Sans Pro', sans-serif;
-    font-size: 5px;
+}
+#corpo{
+    font-size: 15px;
 }
 #redes{
     font-size: 25px;

@@ -74,8 +74,8 @@ img{
     overflow: hidden;
     display: flex;
     flex-direction: column;
-    gap: 1rem;
-    height: 70%;
+    gap: 1.5rem;
+    height: 60%;
     width: 70%;
 }
 p{
@@ -98,7 +98,16 @@ p{
     font-size: 25px;
 }
 
-
+@media(max-height: 659px){
+    .subsubLeft{
+        overflow: hidden;
+        display: flex;
+        flex-direction: column;
+        gap: 1rem;
+        height: 60%;
+        width: 70%;
+    }
+}
 @media(max-width: 768px){
     img{
         height: 25px;
